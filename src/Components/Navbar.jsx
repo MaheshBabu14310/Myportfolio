@@ -9,7 +9,6 @@ const Navbar = () => {
         justifyContent: "space-between",
         alignItems: "center",
         padding: "20px 40px",
-        backgroundColor: "#222", // optional background
         color: "white",
       }}
     >
